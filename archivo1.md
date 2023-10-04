@@ -22,9 +22,9 @@ Esta actividad consiste en realizar un tutorial en el que se describan los fiche
 * Visual Studio Code
 
 ## Ejercicio_1
-``` 
-Que estén incluidos todos los pasos necesarios para configurar correctamente el servicio.
-``` 
+ 
+![Configuracion red](files/CapturaRed.png "Imagen Captura de red")
+ 
 ### Práctica
 
 ## Ejercicio_2
