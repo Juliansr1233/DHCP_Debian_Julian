@@ -25,19 +25,28 @@ Esta actividad consiste en realizar un tutorial en el que se describan los fiche
 ``` 
 Que estén incluidos todos los pasos necesarios para configurar correctamente el servicio.
 ``` 
+### Práctica
+
 ## Ejercicio_2
 ``` 
 Que estén detallados todos los ficheros involucrados y explicados los parámetros para configurar: Rango, máscara, puerta de enlace, DNS, sufijo DNS, tiempo de asignación así como la explicación de cómo crear reservas y exclusiones.
 ``` 
+### Práctica
+
 ## Ejercicio_3
 ``` 
 Cómo verificar qué IPs han sido asignadas.
 ``` 
+### Práctica
+
 ## Ejercicio_4
 ``` 
 Archivos de log para realizar la resolución de problemas.
 ``` 
+### Práctica
+
 ## Ejercicio_5
 ``` 
 Por último realizar un ejemplo práctico en el que se muestre el funcionamiento. 
 ``` 
+### Práctica
