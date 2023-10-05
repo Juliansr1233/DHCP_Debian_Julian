@@ -67,21 +67,19 @@ Después, hacemos una copia del archivo dhcpd.conf antes de empezar a modificar 
 ![ConfiguraciónDHCPD](files/CapturaConfDHCPD.PNG)
 ## Paso_5
 ``` 
-
+Modificamos Host Fantasía:
 
 ``` 
 ### Práctica
-
+![Host Fantasia](files/CapturaHost.PNG)
 ## Paso_6
 ``` 
-
-
+Iniciamos servicio:
 ``` 
 ### Práctica
-
+![Servicio status](files/Capturaactive.PNG)
 ## Paso_7
 ``` 
-
 
 ``` 
 ### Práctica
