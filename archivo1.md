@@ -63,6 +63,8 @@ Después, hacemos una copia del archivo dhcpd.conf antes de empezar a modificar 
 ``` 
 ### Práctica
 ![CopiaDHCPD](files/CapturaCopiaDHCPD.PNG)
+
+![ConfiguraciónDHCPD](files/CapturaConfDHCPD.PNG)
 ## Paso_5
 ``` 
 
