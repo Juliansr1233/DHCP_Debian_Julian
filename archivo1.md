@@ -80,10 +80,10 @@ Iniciamos servicio:
 ![Servicio status](files/Capturaactive.PNG)
 ## Paso_7
 ``` 
-
+Comprobamos desde nuestra máquina clietne la configuración ip mediante dhcp. Para ello, hemos tenido que poner la red en Red Interna lan, y para ver la dirección ip, desde el cmd escribimos ipconfig /all:
 ``` 
 ### Práctica
-
+![Ipconfig](files/Capturaipconfig.PNG)
 ## Paso_8
 ``` 
 
