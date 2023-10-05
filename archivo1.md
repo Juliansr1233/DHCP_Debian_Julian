@@ -2,11 +2,20 @@
 ## Índice
 [Enlace a introducción](#introducción)   
 [Enlace a recursos](#recursos)    
-[Enlace a ejercicio1](#ejercicio1)  
-[Enlace a ejercicio2](#ejercicio2)  
-[Enlace a ejercicio3](#ejercicio3)  
-[Enlace a ejercicio4](#ejercicio4)  
-[Enlace a ejercicio5](#ejercicio5)   
+[Enlace a paso1](#paso1)  
+[Enlace a paso2](#paso2)  
+[Enlace a paso3](#paso3)  
+[Enlace a paso4](#paso4)  
+[Enlace a paso5](#paso5)   
+[Enlace a paso6](#paso6)  
+[Enlace a paso7](#paso7)  
+[Enlace a paso8](#paso8)  
+[Enlace a paso9](#paso9)  
+[Enlace a paso10](#paso10)  
+[Enlace a paso11](#paso11)  
+[Enlace a paso12](#paso12)  
+[Enlace a paso13](#paso13)  
+[Enlace a paso14](#paso14)  
 
 ## Introducción:
 
@@ -21,32 +30,105 @@ Esta actividad consiste en realizar un tutorial en el que se describan los fiche
 * https://github.com/
 * Visual Studio Code
 
-## Ejercicio_1
- 
+## Paso_1
+``` 
+Lo primero que debemos de hacer es en las tarjetas de red, ponerle la red interna LAN. Posteriormente en la configuración del adaptador de red, configuraremos la dirección IP, la máscara de red, la puerta de enlace y el DNS:
+``` 
+### Práctica
 ![Configuracion red](files/CapturaRed.png "Imagen Captura de red")
- 
-### Práctica
 
-## Ejercicio_2
-``` 
-Que estén detallados todos los ficheros involucrados y explicados los parámetros para configurar: Rango, máscara, puerta de enlace, DNS, sufijo DNS, tiempo de asignación así como la explicación de cómo crear reservas y exclusiones.
-``` 
-### Práctica
+![Configuración direcciones IP](files/CapturaConfIP.PNG)
 
-## Ejercicio_3
+## Paso_2
 ``` 
-Cómo verificar qué IPs han sido asignadas.
+Una vez que hemos configurado los parámetros de red, procederemos a comenzar con la instalación del DHCP.
 ``` 
 ### Práctica
+![Instalación](files/CapturaInstalacion.PNG)
 
-## Ejercicio_4
+![Copia antes de la modificacion](files/CapturaCopia.PNG)
+
+![Cat](files/CapturaCatEnp0s3.PNG)
+
+## Paso_3
 ``` 
-Archivos de log para realizar la resolución de problemas.
+Observamos la configuración del servicio DHCP:
+``` 
+### Práctica
+![configuración servicio](files/CapturaConfServicioDHCP.PNG)
+## Paso_4
+``` 
+Después, hacemos una copia del archivo dhcpd.conf antes de empezar a modificar dicho archivo.
+
+``` 
+### Práctica
+![CopiaDHCPD](files/CapturaCopiaDHCPD.PNG)
+## Paso_5
+``` 
+
+
 ``` 
 ### Práctica
 
-## Ejercicio_5
+## Paso_6
 ``` 
-Por último realizar un ejemplo práctico en el que se muestre el funcionamiento. 
+
+
+``` 
+### Práctica
+
+## Paso_7
+``` 
+
+
+``` 
+### Práctica
+
+## Paso_8
+``` 
+
+
+``` 
+### Práctica
+
+## Paso_9
+``` 
+
+
+``` 
+### Práctica
+
+## Paso_10
+``` 
+
+
+``` 
+### Práctica
+
+## Paso_11
+``` 
+
+
+``` 
+### Práctica
+
+## Paso_12
+``` 
+
+
+``` 
+### Práctica
+
+## Paso_13
+``` 
+
+
+``` 
+### Práctica
+
+## Paso_14
+``` 
+
+
 ``` 
 ### Práctica
