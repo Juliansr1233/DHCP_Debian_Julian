@@ -86,17 +86,22 @@ Comprobamos desde nuestra máquina clietne la configuración ip mediante dhcp. P
 ![Ipconfig](files/Capturaipconfig.PNG)
 ## Paso_8
 ``` 
-
-
+Ahora vamos a comprobar creando una máquina cliente windows que nos da otra ip distinta asignada a nuestro rango de direcciones: 
 ``` 
 ### Práctica
-
+![Cliente Windows2](files/CapturaSegundocli.PNG)
 ## Paso_9
 ``` 
-
-
+La última comprobación sería en ambas máquinas clientes, hacer ping a google y ping al servidor para ver si tenemos conexión a internet y conexión también con el servidor:
 ``` 
-### Práctica
+### Práctica  
+Comprobación del primer clietne:  
+
+![Comprobación conexión cliente1](files/Capturacomprobacioncli.PNG)
+
+Comprobación del segundo cliente:  
+
+![Comprobación conexión cliente2](files/Capturacomprobacioncli2.PNG)
 
 ## Paso_10
 ``` 
