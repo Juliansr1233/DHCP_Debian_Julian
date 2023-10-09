@@ -30,7 +30,7 @@ Esta actividad consiste en realizar un tutorial en el que se describan los fiche
 Lo primero que debemos de hacer es en las tarjetas de red, ponerle la red interna LAN. Posteriormente en la configuración del adaptador de red, configuraremos la dirección IP, la máscara de red, la puerta de enlace y el DNS:
 
 ### Práctica
-![Configuracion red](files/CapturaRed.png "Imagen Captura de red")
+![Configuracion red](files/CapturaRed.PNG)
 
 Estas de aquí son las configuraciones del adaptador de red: En mí caso he puesto la dirección IP: 192.168.16.50 haciendo referencia al 16 a mí número de clase. Una máscara de red qque aserá en este caso /24 es decir la 255.255.255.0, con una puerta de enlace que apuntará a nuestra máquina pfSense, que será nuestro router y finalmente pondremos el DNS 8.8.8.8 y como secundario el 8.8.4.4 por si el primero da algún tipo de fallo.  
 ![Configuración direcciones IP](files/CapturaConfIP.PNG)
