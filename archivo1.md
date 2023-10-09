@@ -109,17 +109,20 @@ Comprobación del segundo cliente:
 
 ## Paso 10
 
-Journald es un sistema de gestión de logs que se convertirá en estándar en la mayoría de los linux modernos.
+Journald es un sistema de gestión de logs que se convertirá en estándar en la mayoría de los linux modernos. A continuación, se mostrará los logs en los que el debian almacena los errores:
 
 ### Práctica
+Realizamos el siguiente comando para querer ver únicamente los mensajes que se refieren a DHCP podemos añadir un filtro utilizando una tubería y ejecutando un grep.
+![Hacemos el tail](files/Capturagrep.PNG)  
+POr último ejecutamos el comando del journald, para que recopile muchos datos de registro en el sistema.
 ![Hacemos el journalctl](files/Capturajournalctl.PNG)
 ![Hacemos el journalctl](files/Captura09jour.PNG)
 ## IPs
-## Router pfSense
+### Router pfSense
 192.168.16.1/24
-## Servidor DHCP Debian
+### Servidor DHCP Debian
 192.168.16.50/24
-## Cliente con reserva
+### Cliente con reserva
 192.168.16.60
-## Cliente sin reserva
+### Cliente sin reserva
 DHCP
