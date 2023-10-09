@@ -95,9 +95,9 @@ Ahora vamos a comprobar creando una máquina cliente windows que nos da otra ip 
 ### Práctica
 ![Cliente Windows2](files/CapturaSegundocli.PNG)
 ## Paso_9
-``` 
+
 La última comprobación sería en ambas máquinas clientes, hacer ping a google y ping al servidor para ver si tenemos conexión a internet y conexión también con el servidor:
-``` 
+
 ### Práctica  
 Comprobación del primer clietne:  
 
@@ -107,3 +107,19 @@ Comprobación del segundo cliente:
 
 ![Comprobación conexión cliente2](files/Capturacomprobacioncli2.PNG)
 
+## Paso10
+
+Journald es un sistema de gestión de logs que se convertirá en estándar en la mayoría de los linux modernos.
+
+### Práctica
+![Hacemos el journalctl](files/Capturajournalctl.PNG)
+![Hacemos el journalctl](files/Captura09jour.PNG)
+## IPs
+## Router pfSense
+192.168.16.1/24
+## Servidor DHCP Debian
+192.168.16.50/24
+## Cliente con reserva
+192.168.16.60
+## Cliente sin reserva
+DHCP
